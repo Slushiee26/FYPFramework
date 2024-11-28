@@ -1,16 +1,3 @@
-<p align=center>
-  <img title="Built With Love" src="https://forthebadge.com/images/badges/built-with-love.svg"></p>
-
-<br>
-
-<p align=center>
-  <a href="https://www.instagram.com/0x1ucif3r"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
-  </p>
-
-<p align="center">
-  <img src="https://github.com/D4RK-4RMY/DARKARMY/blob/main/darkarmylogo-removebg-preview%20(2).png" alt=" Logo" />
-</p>
-
 <br>
 
 ### <p align="center">DARKARMY<p align="center">
